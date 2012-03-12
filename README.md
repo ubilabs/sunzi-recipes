@@ -1,6 +1,6 @@
 # Server provisioning recipes
 
-These recipes are currently specificly tailored for [Jiffybox](http://jiffybox.de) instances. They may work on other servers as well, or they'll shoot you in the foot and eat your cat. **You have been warned.**
+These recipes are currently specifically tailored for [Jiffybox](http://jiffybox.de) instances. They may work on other servers as well, or they'll shoot you in the foot and eat your cat. **You have been warned.**
 
 ## Installation
 
