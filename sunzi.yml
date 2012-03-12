@@ -1,0 +1,9 @@
+---
+attributes:
+  application_name: placeholder
+  ruby_version: 1.9.3-p0
+
+files:
+  - files/deploy_key
+  - files/nginx.conf
+  - files/ssh_env
