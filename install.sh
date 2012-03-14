@@ -10,7 +10,7 @@ source recipes/rbenv.sh $(cat attributes/ruby_version)
 source recipes/bundler.sh
 source recipes/mysql.sh
 source recipes/imagemagick.sh
-source recipes/htpasswd.sh
+source recipes/htpasswd.sh $(cat attributes/application_name)
 source recipes/deploy_user.sh $(cat attributes/application_name)
 source recipes/nginx.sh $(cat attributes/application_name)
 source recipes/postfix.sh
